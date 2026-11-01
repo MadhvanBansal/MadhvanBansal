@@ -1,6 +1,6 @@
 <div align="center">
 
-### `MADHVAN@GITHUB` &nbsp;·&nbsp; `PROFILE README`
+### `MADHVAN BANSAL` &nbsp;·&nbsp; `PROFILE README`
 
 </div>
 
