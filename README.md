@@ -1,6 +1,6 @@
 <div align="center">
 
-### `MADHVAN BANSAL` &nbsp;·&nbsp; `PROFILE README`
+### `MADHVAN BANSAL` &nbsp;·&nbsp; `INFO README`
 
 </div>
 
@@ -52,7 +52,6 @@
 <td valign="top">
 
 ```text
-madhvan@india
 ─────────────────────────────────
 Role       AI / ML Developer
            Software Engineering Student
