@@ -1,6 +1,6 @@
 <div align="center">
 
-### `MADHVAN BANSAL` &nbsp;·&nbsp; `INFO README`
+### `MADHVAN BANSAL` &nbsp;·&nbsp; `INFO `
 
 </div>
 
